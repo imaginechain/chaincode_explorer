@@ -8,7 +8,7 @@ go - 1.10.x or greater
 </code></pre>
 
 #### Start Network
-<pre><code>(필수) Docker Setting - Expose deamon on tcp://localhost:2375 without TLS 체크
+<pre><code>(필수) Docker Setting - Expose deamon on tcp://localhost:2375 without TLS 체크 </code></pre>
 
 <pre><code>./startNetwork.sh</code></pre>
 
